@@ -1,0 +1,17 @@
+1. start of the program
+
+2. import random to generate random value
+
+3. create a user_choice by user and computer_choice by random
+
+4. if user_input == computer choice
+        print: You guess it right
+   elif user_input > computer_choice
+        print: you guess the too high
+
+   elif computer_choice > user_choice:
+        print("Sorry, you guessed too low.")
+
+6.print the number of attempts
+
+7. close the program
